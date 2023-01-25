@@ -2,7 +2,7 @@
 #### My name is NIYIRERA Yannick am software/web developer
 ![My name is NIYIRERA Yannick](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
-I'm software and web developer from Rwanda, and I do content on Design and Development. I really enjoy learning languages and frameworks like python and Django, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+I'm software and web developer from Rwanda, and I do content on Design and Development. I really enjoy learning languages and frameworks like python and Django,Dart and Flutter as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 Skills: PYTHON/DJANGO/DART/FLUTTER /JS / HTML / CSS/WORDPRESS
 
